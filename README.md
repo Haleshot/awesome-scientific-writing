@@ -27,6 +27,7 @@ document**.
 
 ## Word Processors
 
+- [Deepnote](https://github.com/deepnote/deepnote) - AI-native data notebook and drop-in replacement for Jupyter.
 - [Marktext](https://github.com/marktext/marktext) - Markdown text editor.
 - [R Studio](https://github.com/rstudio/rstudio) - IDE for R.
   - [bookdown](https://github.com/rstudio/bookdown) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
